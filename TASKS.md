@@ -17,7 +17,7 @@ Criar um livro completo em português que siga rigorosamente as fases e tópicos
 - **Projetos Finais:** Demonstração de maestria, estudos de caso completos.
 
 ## Tarefas Detalhadas
-1. [ ] **Estrutura do Livro**
+1. [x] **Estrutura do Livro**
    - Definir sumário executivo, prefácio e público-alvo.
    - Mapear capítulos para cada fase de PHASES.md, incluindo seções teóricas, exemplos de código e leituras.
    - Estabelecer padrão de formatação: figuras, caixas de destaque, checklists de aprendizado.
